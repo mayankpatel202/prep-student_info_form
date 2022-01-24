@@ -1,5 +1,5 @@
 # Basic Prep Enrollment Form
-### Welcome to Basic Prep! Here you have access to high-quality curriculum that will help you to learn JavaScript fundamentals. Before you get started, please tell us a bit more about yourself by completing the form below.
+### Welcome to Basic Prep! Here you have access to high-quality curriculum that will help you learn JavaScript fundamentals. Before you get started, please tell us a bit more about yourself by completing the form below.
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 ### !challenge
 
@@ -46,7 +46,7 @@ Are you planning to join a Hack Reactor immersive? If so, when?
 * I am not planning to join a Hack Reactor immersive program.
 * I am hoping to join the next upcoming immersive and preparing for my TAA now.
 * I would like to join Hack Reactor in the next 3-6 months.
-* I would like to join Hack Reactor in 6 months to a year.
+* I would like to join Hack Reactor in 6-12 months.
 * I am curious about coding, but I'm not sure when I'll join the Hack Reactor immersive, but I do want to join.
 
 ##### !end-options
@@ -100,7 +100,7 @@ Preferred Name
 
 ##### !question
 
-What are you pronouns(which ones should we use to refer to you)?
+What are your pronouns (which ones should we use to refer to you)?
 
 ##### !end-question
 
@@ -637,20 +637,20 @@ What prior experience do you have with JavaScript (JS) coding?
 
 ##### !options
 
-* I don't have prior coding experience
-* I am comfortable with basic JS syntax and can create variables and simple data structures
-* I can use JS to create conditional statements
-* I can use JS to iterate through arrays and objects
-* I can use JS to combine iteration and conditionals on nested arrays and objects
-* I have built a JS app from scratch
-* I have contributed to a JS app
-* I have used JS to contributed to a dynamic web page
+* I don't have prior coding experience.
+* I am comfortable with basic JS syntax and can create variables and simple data structures.
+* I can use JS to create conditional statements.
+* I can use JS to iterate through arrays and objects.
+* I can use JS to combine iteration and conditionals on nested arrays and objects.
+* I have built a JS app from scratch.
+* I have contributed to a JS app.
+* I have used JS to contribute to a dynamic web page.
 
 ##### !end-options
 
 ##### !answer
 
-* I have used JS to contributed to a dynamic web page
+* I have used JS to contribute to a dynamic web page.
 
 ##### !end-answer
 ### !end-challenge
@@ -787,7 +787,7 @@ your answer here...
 * title: Previous Interactions
 ##### !question
 
-Which previous interactions, if any, have you had with Hack Reactor staff?
+I have interacted with the following Hack Reactor individuals (Check any and all that apply).
 
 ##### !end-question
 
@@ -796,6 +796,7 @@ Which previous interactions, if any, have you had with Hack Reactor staff?
 * Enrollment Advisor
 * Workshop Instructor
 * Former Hack Reactor Graduate
+* I have not interacted with any Hack Reactor staff or graduates
 
 ##### !end-options
 
