@@ -1,5 +1,5 @@
-# STUDENT INFORMATION FORM
-
+# Basic Prep Enrollment Form
+### Welcome to Basic Prep! Here you have access to high-quality curriculum that will help you to learn JavaScript fundamentals. Before you get started, please tell us a bit more about yourself by completing the form below.
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 ### !challenge
 
@@ -9,24 +9,55 @@
 
 ##### !question
 
-How many times did you redo Basic Prep Course?
+Is this your first time working on the Basic Prep curriculum?
 
 ##### !end-question
 
 ##### !options
 
-* 1
-* 2
-* 3+
+* Yes
+* No
 
 ##### !end-options
 
 ##### !answer
 
-* 1
+* Yes
 
 ##### !end-answer
 ### !end-challenge
+<!-- ======================= END CHALLENGE ======================= -->
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+### !challenge
+
+* type: multiple-choice
+* id: 6d5823d9-bdcd-4c3f-8888-e02ff11d5e27
+* title: Immersive Date
+
+##### !question
+
+Are you planning to join a Hack Reactor immersive? If so, when?
+
+##### !end-question
+
+##### !options
+
+* I am not planning to join a Hack Reactor immersive program.
+* I am hoping to join the next upcoming immersive and preparing for my TAA now.
+* I would like to join Hack Reactor in the next 3-6 months.
+* I would like to join Hack Reactor in 6 months to a year.
+* I am curious about coding, but I'm not sure when I'll join the Hack Reactor immersive, but I do want to join.
+
+##### !end-options
+
+##### !answer
+
+* I am curious about coding, but I'm not sure when I'll join the Hack Reactor immersive, but I do want to join.
+
+##### !end-answer
+### !end-challenge
+
 <!-- ======================= END CHALLENGE ======================= -->
 
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
@@ -151,13 +182,13 @@ What is the highest degree or level of school you have completed?
 * Masters degree
 * Professional degree
 * Doctorate degree
-* prefer not to answer
+* Prefer not to answer
 
 ##### !end-options
 
 ##### !answer
 
-* prefer not to answer
+* Prefer not to answer
 
 ##### !end-answer
 ### !end-challenge
@@ -212,13 +243,13 @@ What is your marital status?
 * Widowed
 * Divorced
 * Separated
-* prefer not to answer
+* Prefer not to answer
 
 ##### !end-options
 
 ##### !answer
 
-* prefer not to answer
+* Prefer not to answer
 
 ##### !end-answer
 ### !end-challenge
@@ -516,7 +547,7 @@ Generally speaking, what is your preferred method for communicating with a group
 ### !end-challenge
 <!-- ======================= END CHALLENGE ======================= -->
 
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> 
 ### !challenge
 
 * type: multiple-choice
@@ -546,38 +577,9 @@ Which timezone are you planning on targeting for your Hack Reactor immersive exp
 ### !end-challenge
 <!-- ======================= END CHALLENGE ======================= -->
 
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
-### !challenge
 
-* type: multiple-choice
-* id: 6d5823d9-bdcd-4c3f-8888-e02ff11d5e27
-* title: Immersive Date
 
-##### !question
-
-Which date are you targeting for your SEI Hack Reactor Program?
-
-##### !end-question
-
-##### !options
-
-* MONTH 20XX
-* Option 2
-* Something later
-* I don't plan on attending Hack Reactor's Software Engineering Immersive
-
-##### !end-options
-
-##### !answer
-
-* Something later
-
-##### !end-answer
-### !end-challenge
-
-<!-- ======================= END CHALLENGE ======================= -->
-
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> 
 
 ### !challenge
 
@@ -791,15 +793,15 @@ Which previous interactions, if any, have you had with Hack Reactor staff?
 
 ##### !options
 
-* I have not had any previous interactions with Hack Reactor staff.
-* I spoke to an Enrollment Advisor.
-* I have interacted with a prep staff member via email prior to this class
+* Enrollment Advisor
+* Workshop Instructor
+* Former Hack Reactor Graduate
 
 ##### !end-options
 
 ##### !answer
 
-* I have interacted with a prep staff member via email prior to this class
+* Enrollment Advisor
 
 ##### !end-answer
 ### !end-challenge
@@ -842,22 +844,21 @@ How many times have you taken the TAA for admission to the immersive?
 * title: Statement Describing you
 ##### !question
 
-Which statement best describes your availability to practice code while taking this course?
+What statement best describes your commitment to coding through the Basic Prep curriculum?
 
 ##### !end-question
 
 ##### !options
 
-* I plan to practice coding during class hours only.
-* I plan to dedicate a small chunk (1-5hrs) per week of time outside of class coding.
-* I plan to dedicate a significant amount (6-12hrs) per week of time outside of class coding.
-* I plan to dedicate my full attention (13+ hrs) outside of class hours to coding.
+* I plan to devote a small chunk of time to coding - I'm just here to see if I like this.
+* I plan to devote a significant amount of time to coding.
+* I plan to dedicate my full attention to making my way through the curriculum (It's all I'm planning on doing- I am ready to pass my TAA!)
 
 ##### !end-options
 
 ##### !answer
 
-* I plan to dedicate my full attention (13+ hrs) outside of class hours to coding.
+* I plan to dedicate my full attention to making my way through the curriculum (It's all I'm planning on doing- I am ready to pass my TAA!)
 
 ##### !end-answer
 ### !end-challenge
