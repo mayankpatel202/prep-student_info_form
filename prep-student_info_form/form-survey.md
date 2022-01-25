@@ -797,6 +797,7 @@ I have interacted with the following Hack Reactor individuals (Check any and all
 * Workshop Instructor
 * Former Hack Reactor Graduate
 * I have not interacted with any Hack Reactor staff or graduates
+* Other (if selected, please give more context in #28)
 
 ##### !end-options
 
@@ -806,6 +807,44 @@ I have interacted with the following Hack Reactor individuals (Check any and all
 
 ##### !end-answer
 ### !end-challenge
+<!-- ======================= END CHALLENGE ======================= -->
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: short-answer
+* id: 88abafe9-4a24-4647-b506-816dfb22bb0e
+* title: Other referenced in previous question
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+If selected Other in question #27
+
+##### !end-question
+
+##### !placeholder
+
+If Applicable
+
+##### !end-placeholder
+
+##### !answer
+
+If Applicable
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
 <!-- ======================= END CHALLENGE ======================= -->
 
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
