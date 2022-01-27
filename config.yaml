@@ -6,7 +6,7 @@
 # A user-created config.yaml will have priority over the auto-generated one.
 
 Standards:
-- Title: Prep Student Info Form
+- Title: Basic Prep Student Questionnaire
   UID: af0423698bd07ff1b1b56fd2380d7aec
   Description: Complete this onboarding form before getting started!
   SuccessCriteria:
