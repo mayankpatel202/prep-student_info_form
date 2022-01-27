@@ -642,7 +642,7 @@ How did you hear about us?
 * Recommended by a friend or colleague.
 * Search engine (google, yahoo, etc).
 * Facebook.
-* Other
+* Other (if selected, please give more context in the next question)
 
 ##### !end-options
 
