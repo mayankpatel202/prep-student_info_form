@@ -664,7 +664,7 @@ How did you hear about us?
 
 ##### !question
 
-If selected Other in question #21
+If selected Other in previous question
 
 ##### !end-question
 
@@ -824,7 +824,7 @@ I have interacted with the following Hack Reactor individuals (Check any and all
 * Workshop Instructor
 * Former Hack Reactor Graduate
 * I have not interacted with any Hack Reactor staff or graduates
-* Other (if selected, please give more context in #28)
+* Other (if selected, please give more context in the next question)
 
 ##### !end-options
 
@@ -849,7 +849,7 @@ I have interacted with the following Hack Reactor individuals (Check any and all
 
 ##### !question
 
-If selected Other in question #27
+If selected Other in previous question
 
 ##### !end-question
 
