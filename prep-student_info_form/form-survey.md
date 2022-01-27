@@ -631,31 +631,58 @@ your answer here...
 
 ##### !question
 
-What prior experience do you have with JavaScript (JS) coding?
+How did you hear about us?
 
 ##### !end-question
 
 ##### !options
 
-* I don't have prior coding experience.
-* I am comfortable with basic JS syntax and can create variables and simple data structures.
-* I can use JS to create conditional statements.
-* I can use JS to iterate through arrays and objects.
-* I can use JS to combine iteration and conditionals on nested arrays and objects.
-* I have built a JS app from scratch.
-* I have contributed to a JS app.
-* I have used JS to contribute to a dynamic web page.
+* Social Media.
+* Blog or publication.
+* Recommended by a friend or colleague.
+* Search engine (google, yahoo, etc).
+* Facebook.
+* Other
 
 ##### !end-options
 
 ##### !answer
 
-* I have used JS to contribute to a dynamic web page.
+* Other
 
 ##### !end-answer
 ### !end-challenge
 
 <!-- ======================= END CHALLENGE ======================= -->
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+### !challenge
+
+* type: short-answer
+* id: e5eca8b2-7384-437d-b2ae-9945ff9d4f21
+* title: Other for Hear about us
+
+##### !question
+
+If selected Other in question #21
+
+##### !end-question
+
+##### !placeholder
+
+If Applicable
+
+##### !end-placeholder
+
+##### !answer
+
+[text or regex, the answer (if regex wrap in /)]
+
+##### !end-answer
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+
 
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 ### !challenge
