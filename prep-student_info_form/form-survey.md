@@ -648,7 +648,7 @@ How did you hear about us?
 
 ##### !answer
 
-* Other
+* Other (if selected, please give more context in the next question)
 
 ##### !end-answer
 ### !end-challenge
