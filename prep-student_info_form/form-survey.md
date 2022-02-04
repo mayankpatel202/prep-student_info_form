@@ -55,8 +55,7 @@ What prior experience do you have with JavaScript (JS) coding?
 
 ##### !answer
 
-* [Option 2]
-* [Option 3 (the correct answer set)]
+* I have used JS to contribute to a dynamic web page.
 
 ##### !end-answer
 ### !end-challenge
