@@ -688,7 +688,7 @@ your answer here...
 
 ##### !question
 
-If you have to choose a competitor who would it be and why?
+If you chose to attend another software engineering bootcamp, which one would it be? 
 
 ##### !end-question
 
