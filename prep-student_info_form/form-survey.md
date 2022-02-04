@@ -31,29 +31,64 @@ Is this your first time working on the Basic Prep curriculum?
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 ### !challenge
 
+* type: checkbox
+* id: b95d4383-0284-4757-a48d-646f4e64d37a
+* title: Prior Experience
+##### !question
+
+What prior experience do you have with JavaScript (JS) coding?
+
+##### !end-question
+
+##### !options
+
+* I don’t have prior coding experience.
+* I am comfortable with basic JS syntax and can create variables and simple data structures.
+* I have exposure to creating conditional statements.
+* I have learned how to use JS to iterate through arrays and objects.
+* I understand how to use JS to combine iteration and conditionals on nested arrays and objects.
+* I have built a JS app from scratch.
+* I have contributed to a JS app.
+* I have used JS to contribute to a dynamic web page.
+
+##### !end-options
+
+##### !answer
+
+* [Option 2]
+* [Option 3 (the correct answer set)]
+
+##### !end-answer
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+### !challenge
+
 * type: multiple-choice
 * id: 6d5823d9-bdcd-4c3f-8888-e02ff11d5e27
 * title: Immersive Date
 
 ##### !question
 
-Are you planning to join a Hack Reactor immersive? If so, when?
+Which phrase describes your commitment to join a Hack Reactor immersive?
 
 ##### !end-question
 
 ##### !options
 
-* I am not planning to join a Hack Reactor immersive program.
-* I am hoping to join the next upcoming immersive and preparing for my TAA now.
-* I would like to join Hack Reactor in the next 3-6 months.
-* I would like to join Hack Reactor in 6-12 months.
-* I am curious about coding, but I'm not sure when I'll join the Hack Reactor immersive, but I do want to join.
+* I want to join the next upcoming Hack Reactor immersive and signed up to prepare for the Technical Admissions Assessment.
+* I want to join Hack Reactor’s 12 or 36 week immersive in the next 3 to 6 months.
+* I want to join the Hack Reactor’s SJP19 immersive.
+* I am curious about coding, and not committed to joining any immersive.
+* I am using this content to practice and join a different software engineering bootcamp.
 
 ##### !end-options
 
 ##### !answer
 
-* I am curious about coding, but I'm not sure when I'll join the Hack Reactor immersive, but I do want to join.
+* I am using this content to practice and join a different software engineering bootcamp.
 
 ##### !end-answer
 ### !end-challenge
@@ -438,6 +473,48 @@ Your answer here...
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 ### !challenge
 
+* type: paragraph
+* id: 2ffd912c-eca3-41aa-880c-60a4ef98feee
+* title: Life Experience
+##### !question
+
+What are you most eager to experience in life? 
+
+##### !end-question
+
+##### !placeholder
+
+your answer here...
+
+##### !end-placeholder
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+### !challenge
+
+* type: paragraph
+* id: 94ecdf74-6808-44c0-9e7c-7e018231e931
+* title: Experience with Hack Reactor
+
+##### !question
+
+What are you most eager to experience here with us? 
+
+##### !end-question
+
+##### !placeholder
+
+your answer here...
+
+##### !end-placeholder
+### !end-challenge
+<!-- ======================= END CHALLENGE ======================= -->
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+### !challenge
+
 * type: checkbox
 * id: 941b340d-4a74-43d8-96eb-77213a20d454
 * title: Programming Career
@@ -490,28 +567,30 @@ How do you feel about starting a career in programming? (Check all boxes that ap
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 ### !challenge
 
-* type: multiple-choice
+* type: checkbox
 * id: 19e46127-d8d8-40ff-9fa5-a2c8175abc38
 * title: Software Engineering Career
 
 ##### !question
 
-How informed are you about software engineering as a career? 
+In regards to software engineering as a career, select the topics you have researched yourself
 
 ##### !end-question
 
 ##### !options
 
-* Very Informed
-* Informed
-* Uninformed
-* I don't know anything about software engineering as a career
+* Average salary ranges
+* Job security 
+* General career paths
+* Overall demand per industry
+* Top companies for software engineer to work
+* None of the above 
 
 ##### !end-options
 
 ##### !answer
 
-* Very Informed
+* None of the above
 
 ##### !end-answer
 ### !end-challenge
@@ -767,70 +846,27 @@ your answer here...
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 ### !challenge
 
-* type: paragraph
-* id: 2ffd912c-eca3-41aa-880c-60a4ef98feee
-* title: Life Experience
-##### !question
-
-What are you most eager to experience in life? 
-
-##### !end-question
-
-##### !placeholder
-
-your answer here...
-
-##### !end-placeholder
-### !end-challenge
-
-<!-- ======================= END CHALLENGE ======================= -->
-
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
-### !challenge
-
-* type: paragraph
-* id: 94ecdf74-6808-44c0-9e7c-7e018231e931
-* title: Experience with Hack Reactor
-
-##### !question
-
-What are you most eager to experience here with us? 
-
-##### !end-question
-
-##### !placeholder
-
-your answer here...
-
-##### !end-placeholder
-### !end-challenge
-<!-- ======================= END CHALLENGE ======================= -->
-
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
-### !challenge
-
 * type: checkbox
 * id: 78a6c8d1-1c82-4182-a4d2-6450ff62260c
 * title: Previous Interactions
 ##### !question
 
-I have interacted with the following Hack Reactor individuals (Check any and all that apply).
+I have interacted with the following Hack Reactor individuals (Check any and all that apply)
 
 ##### !end-question
 
 ##### !options
 
-* Enrollment Advisor
-* Workshop Instructor
-* Former Hack Reactor Graduate
-* I have not interacted with any Hack Reactor staff or graduates
-* Other (if selected, please give more context in the next question)
+* Info Session with an Enrollment Advisor 
+* Info Session for SJP19 
+* Javascript or other workshop 
+* Something else
 
 ##### !end-options
 
 ##### !answer
 
-* Enrollment Advisor
+* Something else
 
 ##### !end-answer
 ### !end-challenge
@@ -843,13 +879,13 @@ I have interacted with the following Hack Reactor individuals (Check any and all
 
 * type: short-answer
 * id: 88abafe9-4a24-4647-b506-816dfb22bb0e
-* title: Other referenced in previous question
+* title: Something else selected in previous question
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-If selected Other in previous question
+If selected Something else in previous question
 
 ##### !end-question
 
