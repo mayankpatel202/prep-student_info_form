@@ -850,7 +850,7 @@ your answer here...
 * title: Previous Interactions
 ##### !question
 
-I have interacted with the following Hack Reactor individuals (Check any and all that apply)
+Which of the following Hack Reactor events have you attended?
 
 ##### !end-question
 
